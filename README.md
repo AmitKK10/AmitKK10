@@ -90,8 +90,8 @@
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: https://amitkk-portfolio.vercel.app  
-- 💼 LinkedIn: (add if not yet)
-- 📧 Email: (optional)
+- 💼 LinkedIn: https://www.linkedin.com/in/amit-kiran-kar-975744277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- 📧 Email: amitkiran1007@gmail.com
 
 ---
 
