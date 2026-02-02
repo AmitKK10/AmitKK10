@@ -1,5 +1,133 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Amit Kiran Kar</h1><br><h3 align="center"><br>Full Stack Developer (MERN) | React | Node.js | MongoDB | C++ | DSA<br></h3><br><br><p align="center"><br>🚀 I build real-world, scalable web applications<br/><br>🎯 Actively seeking Frontend / Backend / Full Stack Developer roles<br></p><br><br>---<br><br>## 👨‍💻 About Me<br><br>I’m a **Full Stack Developer** with hands-on experience building **production-style MERN applications** involving payments, role-based systems, real-time updates, and admin-controlled workflows.<br><br>- 🧠 Strong in **DSA (C++) & problem-solving**<br>- 🌐 Experience with **end-to-end MERN projects**<br>- 🔐 Built **auth systems, escrow logic, wallets & dashboards**<br>- ⚡ Worked with **real-time systems using Socket.IO**<br>- 💼 Open to **entry-level / fresher developer opportunities**<br><br>---<br><br>## 🚀 Featured Projects (Highlighted for Recruiters)<br><br>### 🏆 Offer Bridge — Escrow-Based Deal & Payment Platform (FLAGSHIP PROJECT)<br><br>A **full-stack MERN platform** that securely connects **merchants without credit cards** to **customers who own credit cards**, using an **admin-controlled escrow system**.<br><br>🔗 Live Demo: https://offer-bridge.onrender.com  <br>🔗 Repository: https://github.com/AmitKK10/Offer-Bridge  <br><br>#### 🔍 Problem Solved<br>- Many users miss card-based discounts due to lack of credit cards  <br>- Credit card holders underutilize card benefits  <br>- No trusted system exists to connect both parties safely  <br><br>#### 💡 Solution<br>- Admin-controlled **escrow payment system**<br>- Payments are released **only after delivery confirmation**<br>- Fraud prevention via **verification at every step**<br><br>#### 👥 User Roles<br>- **Merchant**: Creates deals, pays advance, tracks OTP & settlement  <br>- **Customer**: Accepts deals, places orders using credit card, earns commission  <br>- **Admin**: Approves deals, verifies proofs, controls escrow & disputes  <br><br>#### ⚡ Key Features<br>- 🔐 Escrow-based payment locking  <br>- 💳 Razorpay payment gateway integration  <br>- 💰 Wallet system (locked & available balance)  <br>- ⚡ Real-time updates using Socket.IO  <br>- 🔑 OTP-based delivery confirmation  <br>- 📜 Immutable transaction & wallet history  <br>- 🛡️ Role-based dashboards (Admin / Merchant / Customer)  <br><br>#### 🧱 Tech Stack<br>- **Frontend**: React (Vite), Tailwind CSS, Axios, Socket.IO Client  <br>- **Backend**: Node.js, Express.js, MongoDB, JWT, Socket.IO  <br>- **Payments**: Razorpay  <br>- **Deployment**: Render  <br><br>---<br><br>### 🍕 Pizza Delivery App — Full Stack MERN<br><br>A complete food ordering platform with **authentication, payments, and admin management**.<br><br>🔹 Role-based Authentication (Admin/User)  <br>🔹 Cart, Wishlist & Order Management  <br>🔹 Razorpay Payment Integration  <br>🔹 Admin Dashboard (Orders & Revenue Tracking)  <br><br>🔗 Frontend: https://github.com/AmitKK10/Pizza-App-Frontend  <br>🔗 Backend: https://github.com/AmitKK10/Pizza-App-Backend  <br><br>---<br><br>### 🤖 AI Virtual Assistant — React<br><br>A smart AI assistant UI focused on **clean UX and scalable component design**.<br><br>🔹 Modular React architecture  <br>🔹 Real-time interactions  <br>🔹 Clean state & component separation  <br><br>🔗 Repo: https://github.com/AmitKK10/AI-Virtual-Assistant  <br><br>---<br><br>### 🌐 Portfolio Website<br><br>Personal developer portfolio showcasing **projects, skills & contact information**.<br><br>🔗 Live: https://amitkk-portfolio.vercel.app  <br>🔗 Repo: https://github.com/AmitKK10/amitkk-portfolio  <br><br>---<br><br>### 📘 Data Structures & Algorithms (C++)<br><br>Consistent practice of **core DSA concepts** with clean STL-based solutions.<br><br>🔗 Repo: https://github.com/AmitKK10/DSA  <br><br>---<br><br>## 🛠️ Tech Stack Summary<br><br>**Frontend**<br>- React.js, JavaScript (ES6+)<br>- HTML5, CSS3, Tailwind CSS<br>- Context API, Responsive UI<br><br>**Backend**<br>- Node.js, Express.js<br>- REST APIs, JWT Authentication<br>- Socket.IO (Real-time systems)<br><br>**Database**<br>- MongoDB<br><br>**Other**<br>- Git & GitHub<br>- Razorpay Integration<br>- MVC Architecture<br>- DSA in C++<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=AmitKK10&show_icons=true&theme=tokyonight" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKK10&layout=compact&theme=tokyonight" /><br></p><br><br>---<br><br>## 📫 Connect With Me<br><br>- 🌐 Portfolio: https://amitkk-portfolio.vercel.app  <br>- 💼 LinkedIn: https://www.linkedin.com/in/amit-kiran-kar-975744277  <br>- 📧 Email: amitkiran1007@gmail.com  <br><br>---<br><br>⭐ *I believe in learning by building real systems and improving through consistency.*<br>
+<h1 align="center">Hi 👋, I'm Amit Kiran Kar</h1>
+<h3 align="center">
+Full Stack Developer (MERN) | React | Node.js | MongoDB | C++ | DSA
+</h3>
+
+<p align="center">
+🚀 I build real-world, scalable web applications <br/>
+🎯 Actively seeking Frontend / Backend / Full Stack Developer roles
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I’m a **Full Stack Developer** with hands-on experience building **production-grade MERN applications** involving payments, role-based systems, real-time updates, and admin-controlled workflows.
+
+- 🧠 Strong in **DSA (C++) & problem-solving**
+- 🌐 Experience with **end-to-end MERN projects**
+- 🔐 Built **auth systems, escrow logic, wallets & dashboards**
+- ⚡ Worked with **real-time systems using Socket.IO**
+- 💼 Open to **entry-level / fresher developer roles**
+
+---
+
+## 🚀 Featured Projects
+
+### 🏆 Offer Bridge — Escrow-Based Deal & Payment Platform (FLAGSHIP)
+
+A **full-stack MERN platform** that securely connects **merchants without credit cards** with **customers who own credit cards**, using an **admin-controlled escrow system**.
+
+🔗 **Live Demo:** https://offer-bridge.onrender.com  
+🔗 **Repository:** https://github.com/AmitKK10/Offer-Bridge  
+
+**Highlights**
+- Escrow-based payment locking
+- Razorpay payment gateway
+- Wallet system (locked & available balance)
+- Real-time updates using Socket.IO
+- OTP-based delivery confirmation
+- Role-based dashboards (Admin / Merchant / Customer)
+
+**Tech Stack**
+- React (Vite), Tailwind CSS, Axios
+- Node.js, Express.js, MongoDB
+- JWT, Socket.IO, Razorpay
+- Deployed on Render
+
+---
+
+### 🍕 Pizza Delivery App — Full Stack MERN
+
+A complete food-ordering platform with authentication, payments, and admin management.
+
+- Role-based Authentication (Admin/User)
+- Cart, Wishlist & Order Management
+- Razorpay Payment Integration
+- Admin Dashboard (Orders & Revenue)
+
+🔗 Frontend: https://github.com/AmitKK10/Pizza-App-Frontend  
+🔗 Backend: https://github.com/AmitKK10/Pizza-App-Backend  
+
+---
+
+### 🤖 AI Virtual Assistant — React
+
+A smart AI assistant UI focused on clean UX and scalable component design.
+
+- Modular React architecture
+- Real-time interactions
+- Clean state & component separation
+
+🔗 Repo: https://github.com/AmitKK10/AI-Virtual-Assistant  
+
+---
+
+### 🌐 Portfolio Website
+
+Personal developer portfolio showcasing projects and skills.
+
+🔗 Live: https://amitkk-portfolio.vercel.app  
+🔗 Repo: https://github.com/AmitKK10/amitkk-portfolio  
+
+---
+
+### 📘 Data Structures & Algorithms (C++)
+
+Consistent practice of core DSA concepts with clean STL-based solutions.
+
+🔗 Repo: https://github.com/AmitKK10/DSA  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- React.js, JavaScript (ES6+)
+- HTML5, CSS3, Tailwind CSS
+- Context API, Responsive UI
+
+**Backend**
+- Node.js, Express.js
+- REST APIs, JWT Authentication
+- Socket.IO (Real-time systems)
+
+**Database**
+- MongoDB, MySQL
+
+**Tools**
+- Git & GitHub
+- Razorpay Integration
+- MVC Architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmitKK10&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKK10&layout=compact&theme=tokyonight&langs_count=6" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://amitkk-portfolio.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/amit-kiran-kar-975744277  
+- 📧 Email: amitkiran1007@gmail.com  
+
+---
 
 
 ## 🌐 Socials:
@@ -15,4 +143,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AmitKK10&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+⭐ *I believe in learning by building real systems and improving through consistency.*
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
