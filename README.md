@@ -1,149 +1,18 @@
-<h1 align="center">Hi 👋, I'm Amit Kiran Kar</h1>
-<h3 align="center">
-Full Stack Developer (MERN) | React | Node.js | MongoDB | C++ | DSA
-</h3>
+# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Amit Kiran Kar</h1><br><h3 align="center"><br>Full Stack Developer (MERN) | React | Node.js | MongoDB | C++ | DSA<br></h3><br><br><p align="center"><br>🚀 I build real-world, scalable web applications<br/><br>🎯 Actively seeking Frontend / Backend / Full Stack Developer roles<br></p><br><br>---<br><br>## 👨‍💻 About Me<br><br>I’m a **Full Stack Developer** with hands-on experience building **production-style MERN applications** involving payments, role-based systems, real-time updates, and admin-controlled workflows.<br><br>- 🧠 Strong in **DSA (C++) & problem-solving**<br>- 🌐 Experience with **end-to-end MERN projects**<br>- 🔐 Built **auth systems, escrow logic, wallets & dashboards**<br>- ⚡ Worked with **real-time systems using Socket.IO**<br>- 💼 Open to **entry-level / fresher developer opportunities**<br><br>---<br><br>## 🚀 Featured Projects (Highlighted for Recruiters)<br><br>### 🏆 Offer Bridge — Escrow-Based Deal & Payment Platform (FLAGSHIP PROJECT)<br><br>A **full-stack MERN platform** that securely connects **merchants without credit cards** to **customers who own credit cards**, using an **admin-controlled escrow system**.<br><br>🔗 Live Demo: https://offer-bridge.onrender.com  <br>🔗 Repository: https://github.com/AmitKK10/Offer-Bridge  <br><br>#### 🔍 Problem Solved<br>- Many users miss card-based discounts due to lack of credit cards  <br>- Credit card holders underutilize card benefits  <br>- No trusted system exists to connect both parties safely  <br><br>#### 💡 Solution<br>- Admin-controlled **escrow payment system**<br>- Payments are released **only after delivery confirmation**<br>- Fraud prevention via **verification at every step**<br><br>#### 👥 User Roles<br>- **Merchant**: Creates deals, pays advance, tracks OTP & settlement  <br>- **Customer**: Accepts deals, places orders using credit card, earns commission  <br>- **Admin**: Approves deals, verifies proofs, controls escrow & disputes  <br><br>#### ⚡ Key Features<br>- 🔐 Escrow-based payment locking  <br>- 💳 Razorpay payment gateway integration  <br>- 💰 Wallet system (locked & available balance)  <br>- ⚡ Real-time updates using Socket.IO  <br>- 🔑 OTP-based delivery confirmation  <br>- 📜 Immutable transaction & wallet history  <br>- 🛡️ Role-based dashboards (Admin / Merchant / Customer)  <br><br>#### 🧱 Tech Stack<br>- **Frontend**: React (Vite), Tailwind CSS, Axios, Socket.IO Client  <br>- **Backend**: Node.js, Express.js, MongoDB, JWT, Socket.IO  <br>- **Payments**: Razorpay  <br>- **Deployment**: Render  <br><br>---<br><br>### 🍕 Pizza Delivery App — Full Stack MERN<br><br>A complete food ordering platform with **authentication, payments, and admin management**.<br><br>🔹 Role-based Authentication (Admin/User)  <br>🔹 Cart, Wishlist & Order Management  <br>🔹 Razorpay Payment Integration  <br>🔹 Admin Dashboard (Orders & Revenue Tracking)  <br><br>🔗 Frontend: https://github.com/AmitKK10/Pizza-App-Frontend  <br>🔗 Backend: https://github.com/AmitKK10/Pizza-App-Backend  <br><br>---<br><br>### 🤖 AI Virtual Assistant — React<br><br>A smart AI assistant UI focused on **clean UX and scalable component design**.<br><br>🔹 Modular React architecture  <br>🔹 Real-time interactions  <br>🔹 Clean state & component separation  <br><br>🔗 Repo: https://github.com/AmitKK10/AI-Virtual-Assistant  <br><br>---<br><br>### 🌐 Portfolio Website<br><br>Personal developer portfolio showcasing **projects, skills & contact information**.<br><br>🔗 Live: https://amitkk-portfolio.vercel.app  <br>🔗 Repo: https://github.com/AmitKK10/amitkk-portfolio  <br><br>---<br><br>### 📘 Data Structures & Algorithms (C++)<br><br>Consistent practice of **core DSA concepts** with clean STL-based solutions.<br><br>🔗 Repo: https://github.com/AmitKK10/DSA  <br><br>---<br><br>## 🛠️ Tech Stack Summary<br><br>**Frontend**<br>- React.js, JavaScript (ES6+)<br>- HTML5, CSS3, Tailwind CSS<br>- Context API, Responsive UI<br><br>**Backend**<br>- Node.js, Express.js<br>- REST APIs, JWT Authentication<br>- Socket.IO (Real-time systems)<br><br>**Database**<br>- MongoDB<br><br>**Other**<br>- Git & GitHub<br>- Razorpay Integration<br>- MVC Architecture<br>- DSA in C++<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=AmitKK10&show_icons=true&theme=tokyonight" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKK10&layout=compact&theme=tokyonight" /><br></p><br><br>---<br><br>## 📫 Connect With Me<br><br>- 🌐 Portfolio: https://amitkk-portfolio.vercel.app  <br>- 💼 LinkedIn: https://www.linkedin.com/in/amit-kiran-kar-975744277  <br>- 📧 Email: amitkiran1007@gmail.com  <br><br>---<br><br>⭐ *I believe in learning by building real systems and improving through consistency.*<br>
 
-<p align="center">
-🚀 I build real-world, scalable web applications<br/>
-🎯 Actively seeking Frontend / Backend / Full Stack Developer roles
-</p>
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1C9b3GkQDk/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/amit_kiran_kar_10?igsh=dWN0bGwwNmU4cXRo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amit-kiran-kar-975744277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@amitkk-jz3ji?si=103hR0NjTJOhuZfs) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Amit Kiran Kar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amitkiran1007@gmail.com) 
 
-## 👨‍💻 About Me
-
-I’m a **Full Stack Developer** with hands-on experience building **production-style MERN applications** involving payments, role-based systems, real-time updates, and admin-controlled workflows.
-
-- 🧠 Strong in **DSA (C++) & problem-solving**
-- 🌐 Experience with **end-to-end MERN projects**
-- 🔐 Built **auth systems, escrow logic, wallets & dashboards**
-- ⚡ Worked with **real-time systems using Socket.IO**
-- 💼 Open to **entry-level / fresher developer opportunities**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AmitKK10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AmitKK10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKK10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AmitKK10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects (Highlighted for Recruiters)
-
-### 🏆 Offer Bridge — Escrow-Based Deal & Payment Platform (FLAGSHIP PROJECT)
-
-A **full-stack MERN platform** that securely connects **merchants without credit cards** to **customers who own credit cards**, using an **admin-controlled escrow system**.
-
-🔗 Live Demo: https://offer-bridge.onrender.com  
-🔗 Repository: https://github.com/AmitKK10/Offer-Bridge  
-
-#### 🔍 Problem Solved
-- Many users miss card-based discounts due to lack of credit cards  
-- Credit card holders underutilize card benefits  
-- No trusted system exists to connect both parties safely  
-
-#### 💡 Solution
-- Admin-controlled **escrow payment system**
-- Payments are released **only after delivery confirmation**
-- Fraud prevention via **verification at every step**
-
-#### 👥 User Roles
-- **Merchant**: Creates deals, pays advance, tracks OTP & settlement  
-- **Customer**: Accepts deals, places orders using credit card, earns commission  
-- **Admin**: Approves deals, verifies proofs, controls escrow & disputes  
-
-#### ⚡ Key Features
-- 🔐 Escrow-based payment locking  
-- 💳 Razorpay payment gateway integration  
-- 💰 Wallet system (locked & available balance)  
-- ⚡ Real-time updates using Socket.IO  
-- 🔑 OTP-based delivery confirmation  
-- 📜 Immutable transaction & wallet history  
-- 🛡️ Role-based dashboards (Admin / Merchant / Customer)  
-
-#### 🧱 Tech Stack
-- **Frontend**: React (Vite), Tailwind CSS, Axios, Socket.IO Client  
-- **Backend**: Node.js, Express.js, MongoDB, JWT, Socket.IO  
-- **Payments**: Razorpay  
-- **Deployment**: Render  
-
----
-
-### 🍕 Pizza Delivery App — Full Stack MERN
-
-A complete food ordering platform with **authentication, payments, and admin management**.
-
-🔹 Role-based Authentication (Admin/User)  
-🔹 Cart, Wishlist & Order Management  
-🔹 Razorpay Payment Integration  
-🔹 Admin Dashboard (Orders & Revenue Tracking)  
-
-🔗 Live Demo: https://oibsip-pizza-app-ykex.onrender.com 
-🔗 Reprository: https://github.com/AmitKK10/OIBSIP-PIZZA-APP 
-
----
-
-### 🤖 AI Virtual Assistant — React
-
-A smart AI assistant UI focused on **clean UX and scalable component design**.
-
-🔹 Modular React architecture  
-🔹 Real-time interactions  
-🔹 Clean state & component separation  
-
-🔗 Repo: https://github.com/AmitKK10/AI-Virtual-Assistant  
-
----
-
-### 🌐 Portfolio Website
-
-Personal developer portfolio showcasing **projects, skills & contact information**.
-
-🔗 Live: https://amitkk-portfolio.vercel.app  
-🔗 Repo: https://github.com/AmitKK10/amitkk-portfolio  
-
----
-
-### 📘 Data Structures & Algorithms (C++)
-
-Consistent practice of **core DSA concepts** with clean STL-based solutions.
-
-🔗 Repo: https://github.com/AmitKK10/DSA  
-
----
-
-## 🛠️ Tech Stack Summary
-
-**Frontend**
-- React.js, JavaScript (ES6+)
-- HTML5, CSS3, Tailwind CSS
-- Context API, Responsive UI
-
-**Backend**
-- Node.js, Express.js
-- REST APIs, JWT Authentication
-- Socket.IO (Real-time systems)
-
-**Database**
-- MongoDB
-
-**Other**
-- Git & GitHub
-- Razorpay Integration
-- MVC Architecture
-- DSA in C++
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmitKK10&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmitKK10&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 🌐 Portfolio: https://amitkk-portfolio.vercel.app  
-- 💼 LinkedIn: https://www.linkedin.com/in/amit-kiran-kar-975744277  
-- 📧 Email: amitkiran1007@gmail.com  
-
----
-
-⭐ *I believe in learning by building real systems and improving through consistency.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
