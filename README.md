@@ -118,9 +118,6 @@ Netaji Subhash Engineering College · 2022–2026 · **CGPA: 8.07**
 
 **Let's build something useful.**
 
-[![Email](https://img.shields.io/badge/Email-amitkiran1007%40gmail.com-ff4fa3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkiran1007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit_Kiran_Kar-b86cff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kiran-kar-975744277/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-amitkk--portfolio-63d7ff?style=for-the-badge&logo=vercel&logoColor=white)](https://amitkk-portfolio.vercel.app/)
 
 </div>
 
