@@ -2,13 +2,17 @@
 
 <img src="./github-banner.png" alt="Amit Kiran Kar - Software Engineer" width="100%">
 
+</div>
+
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff4fa3?style=for-the-badge&logo=vercel&logoColor=white)](https://amitkk-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b86cff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kiran-kar-975744277/)
-[![GitHub](https://img.shields.io/badge/GitHub-AmitKK10-181717?style=for-the-badge&logo=github)](https://github.com/AmitKK10)
+<div align="center">
+
+<img src="./lanyard.svg" alt="Amit Kiran Kar - Developer Profile" width="700">
 
 </div>
+
+<br/>
 
 ## 👨‍💻 About Me
 
@@ -103,9 +107,11 @@ Netaji Subhash Engineering College · 2022–2026 · **CGPA: 8.07**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmitKK10/AmitKK10/output/github-contribution-grid-snake.svg?v=1" alt="GitHub contribution snake">
+<img src="https://raw.githubusercontent.com/AmitKK10/AmitKK10/output/github-contribution-grid-snake.svg?v=2" alt="GitHub contribution snake">
 
 </div>
+
+<br/>
 
 ## 📜 Certifications
 
@@ -118,6 +124,9 @@ Netaji Subhash Engineering College · 2022–2026 · **CGPA: 8.07**
 
 **Let's build something useful.**
 
+[![Email](https://img.shields.io/badge/Email-amitkiran1007%40gmail.com-ff4fa3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitkiran1007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit_Kiran_Kar-b86cff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kiran-kar-975744277/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-amitkk--portfolio-63d7ff?style=for-the-badge&logo=vercel&logoColor=white)](https://amitkk-portfolio.vercel.app/)
 
 </div>
 
