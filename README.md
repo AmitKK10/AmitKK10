@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img alt="Amit Kiran Kar - Software Engineer" src="./banner.svg?v=1">
-</picture>
+<img src="./github-banner.png" alt="Amit Kiran Kar - Software Engineer" width="100%">
 
 <br/>
 
@@ -40,6 +36,7 @@ I'm a **Software Engineer and MERN Stack Developer** focused on building scalabl
 ## 💼 Experience
 
 ### Software Developer — Fiber Max Services Pvt. Ltd.
+
 **May 2026 – Present · Rourkela, Odisha**
 
 - Developing scalable and maintainable web applications using the MERN stack.
@@ -54,6 +51,7 @@ I'm a **Software Engineer and MERN Stack Developer** focused on building scalabl
 A P2P escrow-based commission platform connecting Merchants, Customers and Admins through secure deal workflows.
 
 **Highlights**
+
 - Atomic wallet and transaction ledger
 - Escrow-based payment locking
 - 30-minute deal acceptance and automatic expiry
@@ -105,7 +103,7 @@ Netaji Subhash Engineering College · 2022–2026 · **CGPA: 8.07**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AmitKK10/AmitKK10/output/github-contribution-grid-snake.svg?v=1" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/AmitKK10/AmitKK10/output/github-contribution-grid-snake.svg?v=1" alt="GitHub contribution snake">
 
 </div>
 
